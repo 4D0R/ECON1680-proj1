@@ -1,1 +1,12 @@
 A project analyzing citibike data and building a model to predict ride duration.
+
+Data comes from citibike, weather query builder, and the new york MTA. The data encompasses the complete 2023 year and can be accessed online at these links:
+
+https://citibikenyc.com/system-data
+
+https://data.ny.gov/Transportation/MTA-Daily-Ridership-Data-Beginning-2020/vxuj-8kew/about_data
+
+https://www.visualcrossing.com/weather/weather-data-services#
+
+https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/#url=Historical-Data
+
